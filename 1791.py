@@ -5,3 +5,4 @@ class Solution:
         if edges[0][0] in edges[1]:
             return edges[0][0] #it will be either this or 0,1
         return edges[0][1]
+#leetcode
