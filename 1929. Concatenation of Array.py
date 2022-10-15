@@ -3,3 +3,4 @@ class Solution:
     #in python you can just add arrays together how the question describes
         return nums + nums
 
+#redoing this
