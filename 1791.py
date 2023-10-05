@@ -6,4 +6,4 @@ class Solution:
             return edges[0][0] #it will be either this or 0,1
         return edges[0][1]
 #leetcode
-#opening up this repo to hacktoberfest
+#opening up this repo to hacktoberfest 2023
